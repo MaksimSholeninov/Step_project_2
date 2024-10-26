@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <your_repo_url>
+git push -u origin master
+
+3c848068a2b54d938697ba6f48e0e64b
+

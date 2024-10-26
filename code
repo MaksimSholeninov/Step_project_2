@@ -1,0 +1,16 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <your_repo_url>
+git push -u origin master
+
+3c848068a2b54d938697ba6f48e0e64b
+
+Maksim3101
+
+ls /home/vagrant/.jenkins/secrets/
+
+sudo cat /home/vagrant/.jenkins/secrets/initialAdminPassword
+
+wget https://get.jenkins.io/war-stable/latest/jenkins.war
+
